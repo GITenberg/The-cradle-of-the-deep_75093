@@ -1,0 +1,39 @@
+_repo: The-cradle-of-the-deep_75093
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Wiese, Kurt
+    alias: Weise, Kurt
+    birthdate: 1887
+    deathdate: 1974
+    gutenberg_agent_id: '56733'
+    url: http://www.gutenberg.org/2009/agents/56733
+    wikipedia:
+    - https://de.wikipedia.org/wiki/Kurt_Wiese
+    - https://en.wikipedia.org/wiki/Kurt_Wiese
+creator:
+  author:
+    agent_name: Lowell, Joan
+    gutenberg_agent_id: '57821'
+    url: http://www.gutenberg.org/2009/agents/57821
+description: ''
+gutenberg_issued: '2025-01-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75093'
+language: en
+pgterms:marc904: https://archive.org/details/cradleofdeep00lowe
+pgterms:marc905: 20250110142708lowell
+pgterms:marc906: '1929'
+pgterms:marc907: US
+production_note: 'This eBook was produced by: Al Haines, Pat McCoy & the online Distributed
+  Proofreaders Canada team at https://www.pgdpcanada.net, produced from images generously
+  made available by Internet Archive.'
+publication_note: '  $aNew York :$bSimon and Schuster, $c1929.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The cradle of the deep
+url: http://www.gutenberg.org/ebooks/75093
