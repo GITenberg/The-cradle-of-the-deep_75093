@@ -11,12 +11,17 @@ contributor:
     wikipedia:
     - https://de.wikipedia.org/wiki/Kurt_Wiese
     - https://en.wikipedia.org/wiki/Kurt_Wiese
+covers:
+- cover_type: archival
+  image_path: 75093-h/images/cover.jpg
 creator:
   author:
     agent_name: Lowell, Joan
     gutenberg_agent_id: '57821'
     url: http://www.gutenberg.org/2009/agents/57821
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75093#The-cradle-of-the-deep
 gutenberg_issued: '2025-01-12'
 gutenberg_type: Text
 identifiers:
